@@ -1,0 +1,32 @@
+Terminal STUFF (GIT)
+
+pwd
+	lists present working directory
+
+ls
+	directory listing
+
+cd
+	change directory
+
+mkdir [directory_name]
+	makes new directory with name directory_name
+
+touch [file.extension]
+	creates a file  
+
+GIT STUFF
+
+git init
+	used to create a new Git repository
+
+git status
+	tells us the status of our working directory
+
+git ignore
+	tells git that it should completely ignore a certain file
+
+git add
+	Tells git to start tracking specific files or folders
+
+git commit
