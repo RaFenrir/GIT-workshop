@@ -34,4 +34,6 @@ git commit
 
 git log 
 	shows us all the commitsthat were made
-	
+
+git log --oneline
+	show us all the commits in oneline!	
