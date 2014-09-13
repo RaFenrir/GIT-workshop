@@ -22,8 +22,10 @@ git init
 
 git status
 	tells us the status of our working directory
+	compares the difference between working dir and staging area
+	also compares the difference between staring area and repo
 
-git ignore
+git .ignore
 	tells git that it should completely ignore a certain file
 
 git add
@@ -36,4 +38,6 @@ git log
 	shows us all the commitsthat were made
 
 git log --oneline
-	show us all the commits in oneline!	
+	show us all the commits in oneline!
+
+	
