@@ -30,3 +30,8 @@ git add
 	Tells git to start tracking specific files or folders
 
 git commit
+	commit changes to the respository
+
+git log 
+	shows us all the commitsthat were made
+	
