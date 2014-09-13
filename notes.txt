@@ -63,3 +63,5 @@ git branch
 git branch <branch name>
 	creates a new branch
 
+git remote add origin [url]
+	adds a git remote with the same origin
